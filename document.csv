@@ -1,0 +1,5 @@
+﻿DocID,CEMTitle,Country,Region,Year,IBRD_IDA,Income_Level,FCS_YN,M_Labor,M_Productivity,M_diversity,M_Competition
+1,Saudi ,SAU,MENA,2017,IBRD,Middle Income,1,0,1,1,0
+2,Japan,JPN,EAP,2017,IBRD,High Income,0,1,0,1,0
+3,Spain,SPN,EUR,2017,IDA,High Income,0,0,1,0,1
+4,Korea,KOR,EAP,2016,IBRD,Middle Income,1,1,0,0,0
